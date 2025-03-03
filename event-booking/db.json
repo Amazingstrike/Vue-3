@@ -29,5 +29,20 @@
       "location": "Convention Center, Downtown"
     }
   ],
-  "bookings": []
+  "bookings": [
+    {
+      "id": "1740887788217",
+      "userId": 1,
+      "eventTitle": "PHP Conference 2022",
+      "eventId": "3",
+      "status": "confirmed"
+    },
+    {
+      "id": "1740887909895",
+      "userId": 1,
+      "eventTitle": "Rails Conference 2024",
+      "eventId": "1",
+      "status": "confirmed"
+    }
+  ]
 }
